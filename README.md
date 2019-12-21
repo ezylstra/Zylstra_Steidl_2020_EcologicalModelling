@@ -14,8 +14,7 @@ ________________________________________________________________________________
 Will add once accepted
 ## Code 
 1. [Seasonal_Growth.R](Seasonal_Growth.R): R code used to model seasonal growth of canyon treefrogs (*Hyla arenicolor*) in southern Arizona based on 3 years of capture-recapture data.  Includes code used to reproduce Fig. 3 in the manuscript.
-2. 
-[Simulations_SeasonalGrowth.R](Simulations_SeasonalGrowth.R): R code used to simulate lengths of capture treefrogs and estimate growth parameters based on von Bertalanffy models (seasonal and non-seasonal). Includes code used to reproduce Figs. 1 and 2 in the manuscript.  
+2. [Simulations_SeasonalGrowth.R](Simulations_SeasonalGrowth.R): R code used to simulate lengths of canyon treefrogs and estimate growth parameters based on von Bertalanffy models (seasonal and non-seasonal). Includes code used to reproduce Figs. 1 and 2 in the manuscript.  
 
 ## Data
 1. [AllFrogs.csv](AllFrogs.csv): Capture-recapture data for treefrogs captured in southern Arizona, 2014-2016.  Each row (n = 2778) represents one capture.  The columns are:
