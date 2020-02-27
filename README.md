@@ -23,3 +23,13 @@ The rate of somatic growth determines when individuals transition between life s
     - Occasion: survey occasion, numbered 1-11 (three in spring 2014, two in fall 2014, three in spring 2015, two in fall 2015, and one in spring 2016).
     - Sex: sex assignment (f=female/m=male/u=unknown), using information from all captures of each individual (i.e., if sex was unknown when captured with SVL = 37, but assigned as female when later captured with SVL = 41, sex relabeled as female for earlier capture).
     - Sex40: sex assignment (f/m/u), with all individuals listed as “u” when SVL < 40.
+    
+## Supplementary Information
+1. [Zylstra&Steidl_2020_GrowthModel_Appendices.pdf](Zylstra&Steidl_2020_GrowthModel_Appendices.pdf): Appendices A-E.
+    - Appendix A: Derivation of a seasonal model of growth
+    - Appendix B: Methods and results from simulations used to assess bias and precision of parameter estimates
+    - Appendix C: JAGS code for a seasonal, von Bertalanffy model of growth
+    - Appendix D: Predicting length of canyon treefrogs based on seasonal and non-seasonal models
+    - Appendix E: Posterior predictive checks
+    
+
